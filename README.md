@@ -6,13 +6,13 @@ Live - [MyHomie](https:///) <br/>
 
 ### Video Demo
 
-![try2](https://user-images.githubusercontent.com/73348574/126811719-beac6a7d-8084-4a7d-8e2d-9978889caaf1.gif)
+![try2](https://user-images.githubusercontent.com/)
 
 
 ### Screenshots Of Mobile View
 
-![1](https://user-images.githubusercontent.com/73348574/126811022-28b1e572-0bbd-40ed-a423-dca4bb57c4d6.png)
-![2](https://user-images.githubusercontent.com/73348574/126811028-de3f3169-e4b9-4013-9e31-6e64fb0b6713.png)
+![1](https://user-images.githubusercontent.com/)
+![2](https://user-images.githubusercontent.com/)
 
 
 ## Index
